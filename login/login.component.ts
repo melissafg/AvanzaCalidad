@@ -23,7 +23,7 @@ export class LoginComponent implements OnInit {
   ) { }
 
   async ngOnInit() {
-
+    // esto es a proposito
   }
 
   async login() {
