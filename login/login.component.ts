@@ -23,7 +23,7 @@ export class LoginComponent implements OnInit {
   ) { }
 
   async ngOnInit() {
-
+    //esto es intencional
   }
 
   async login() {
